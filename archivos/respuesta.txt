@@ -1,0 +1,2 @@
+Con el punto anterior (10) no me aparecía la carpeta dentro de GitHub Desktop para poder 
+hacerle el commit, pero una vez le agregué este archivo ya si me aparece.
