@@ -1,0 +1,2 @@
+Yo no sé mucho sobre Git y GitHub, pero creo que el motivo por el cuál no podía crear un commit y subir la carpeta de "archivos" al repositorio remoto se debe a que
+la carpeta estaba vacía y por lo tanto no la reconocía, ya que una vez creé el archivo respuesta.txt ya si me dejó hacer el commit y posteriormente el push
